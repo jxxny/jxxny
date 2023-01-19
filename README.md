@@ -1,9 +1,10 @@
-#### 안녕하세요, 지니입니다. 방문해주셔서 감사합니다!  
-#### 저는 백엔드 개발자가 되기 위해 공부하고 있습니다 📚
+안녕하세요, 지니입니다. 방문해주셔서 감사합니다!  
+저는 **백엔드 개발자**가 되기 위해 공부하고 있습니다 📚
 
 <br/>
 
-### 💻 Stack
+### 💻 Tech Stack
+***
 ![HTML5](https://img.shields.io/badge/HTML5-E34F26.svg?&style=for-the-badge&logo=HTML5&logoColor=white)
 ![CSS3](https://img.shields.io/badge/CSS3-1572B6.svg?&style=for-the-badge&logo=CSS3&logoColor=white)
 ![REACT](https://img.shields.io/badge/REACT-61DAFB.svg?&style=for-the-badge&logo=REACT&logoColor=white)
@@ -20,4 +21,5 @@
 <br/>
       
 ### ✨ Boj
+***
 [![Solved.ac Profile](http://mazassumnida.wtf/api/v2/generate_badge?boj=thewintersea)](https://solved.ac/thewintersea/)
