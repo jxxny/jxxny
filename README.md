@@ -1,7 +1,7 @@
-안녕하세요! 저는 JINNY 입니다 👋  
-좋은 개발자가 되기 위해 노력하고 있습니다 🌟
+#### 안녕하세요, 지니입니다. 방문해주셔서 감사합니다!
+#### 저는 백엔드 개발자가 되기 위해 공부하고 있습니다 📚
 
-
+<br/>
 
 ## 💻 Stack
 ![HTML5](https://img.shields.io/badge/HTML5-E34F26.svg?&style=for-the-badge&logo=HTML5&logoColor=white)
@@ -15,8 +15,9 @@
 ![SPRINGFRAMEWORK](https://img.shields.io/badge/SPRING%20FRAMEWORK-6DB33F.svg?&style=for-the-badge&logo=SPRING&logoColor=white)
 ![MYSQL](https://img.shields.io/badge/MYSQL-4479A1.svg?&style=for-the-badge&logo=MYSQL&logoColor=white)
 ![LINUX](https://img.shields.io/badge/LINUX-FCC624.svg?&style=for-the-badge&logo=LINUX&logoColor=white)
-![MARIADB](https://img.shields.io/badge/MARIA-003545.svg?&style=for-the-badge&logo=MariaDB&logoColor=white)  
+![MARIADB](https://img.shields.io/badge/MARIA%20DB-003545.svg?&style=for-the-badge&logo=MariaDB&logoColor=white)  
     
+<br/>
       
 ## ✨ Boj
 [![Solved.ac Profile](http://mazassumnida.wtf/api/v2/generate_badge?boj=thewintersea)](https://solved.ac/thewintersea/)
