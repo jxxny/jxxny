@@ -20,4 +20,4 @@
 <br/>
       
 ### ✨ Boj
-[![Solved.ac Profile](http://mazassumnida.wtf/api/v2/generate_badge?boj=thewintersea)](https://solved.ac/thewintersea/)
+[![Solved.ac Profile](http://mazassumnida.wtf/api/v2/generate_badge?boj=jinny)](https://solved.ac/thewintersea/)
